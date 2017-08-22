@@ -11,7 +11,15 @@ _Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_
 ### Online Courses (MOOC)
 Realiza cuatro lecciones de un curso que elijas en alguna plataforma MOOC, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
 
-Tendrás que entregar un PDF con tu reporte de seguimiento del curso, incluyendo capturas de pantalla, calificaciones, código que tuviste que desarrollar, etc. La calificación del curso vendrá dada por los siguientes criterios con el mismo peso cada uno:
+La entrega ha de constar de:
+
+- Un archivo PDF llamado MOOC_descripcion.pdf donde se describa el MOOC (primera entrega)
+- Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realizacin del MOOC
+- Un directorio llamado MOOC_materiales donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
+
+**TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
+
+La calificación del curso vendrá dada por los siguientes criterios con el mismo peso cada uno:
 
 - COMPLEJIDAD DEL MOOC
 - COMPLECIÓN 
