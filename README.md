@@ -41,6 +41,8 @@ Parte 5: Planificación y búsqueda
 -   11 - Algoritmos genéticos
 -   12 - Simulated annealing 
 
+--
+
 
     W34   Ago22, Ago23   intro      1.python
     W35   Ago29, Ago30   2.pandas   pset0+1
@@ -63,8 +65,5 @@ Parte 5: Planificación y búsqueda
     Dic 11-19 Evaluaciones finales
     Dic 19    Entrega de notas
     
-    Calendario academico: https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf
-
-
-https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x
+    [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
 
