@@ -1,5 +1,4 @@
-# Inteligencia Artificial I
-## 2017 - Semestre II - Universidad Industrial de Santander
+# Inteligencia Artificial I 2017-2
 
 _Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_
 
