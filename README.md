@@ -60,10 +60,18 @@ Parte 5: Planificación y búsqueda
     W47   Nov21, Nov22   12.sa      pset8
     W48   Nov28, Nov29   psets      psets
     W49   Dic05, Dic06   qprep      quiz
+    
+    ENTREGAS
+    sep 17 psets 1 y 2, definicion MOOC
+    oct 29 psets 3, 4 y 5
+    dic 03 psets 7, 8 y 9
+    dic 15 informe MOOC
+
+**CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 
     Sep 29    Entrega primera calificacion
     Dic 11-19 Evaluaciones finales
     Dic 19    Entrega de notas
     
-    [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
+[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
 
