@@ -17,32 +17,7 @@ Tendrás que entregar un PDF con tu reporte de seguimiento del curso, incluyendo
 - COMPLECIÓN 
 - CLARIDAD DEL REPORTE
 
-### Programa y fechas
-
-Parte 1: Python
--   01 - Introducción a Python
--   02 - Analítica de Datos (PANDAS)
-
-Parte 2: Revisión de estadística
--   03 - Distribuciones
--   04 - Estimación bayesiana
- 
-Parte 3: Machine Learning
--   05 - Flujo de trabajo de machine learning
--   06 - Métodos de machine learning
--   07- Desarrollo de algoritmos
-
-Parte 4: Procesamiento de imágenes
--   08 - Introducción al procesamiento de imágenes
--   09 - Representación y clasificación de imágenes
-
-Parte 5: Planificación y búsqueda
--   10 - Algoritmos deterministas
--   11 - Algoritmos genéticos
--   12 - Simulated annealing 
-
---
-
+### Calendario y plazos
 
     W34   Ago22, Ago23   intro      1.python
     W35   Ago29, Ago30   2.pandas   pset0+1
