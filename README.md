@@ -1,7 +1,7 @@
 # Inteligencia Artificial I
 ## 2017 - Semestre II - Universidad Industrial de Santander
 
-_Regístrate [aquí](https://docs.google.com/a/unal.edu.co/forms/d/1mNpJ7IRkqjBasCD-hXVzOBTU0Q65gefZJbbAHQ-lASY/edit?usp=drive_web)_
+_Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_
 
 ### Calificación
 40% Problemsets<br/>
@@ -20,26 +20,26 @@ Tendrás que entregar un PDF con tu reporte de seguimiento del curso, incluyendo
 ### Programa y fechas
 
 Parte 1: Python
-   01 - Introducción a Python
-   02 - Analítica de Datos (PANDAS)
+-   01 - Introducción a Python
+-   02 - Analítica de Datos (PANDAS)
 
 Parte 2: Revisión de estadística
-   03 - Distribuciones
-   04 - Estimación bayesiana
+-   03 - Distribuciones
+-   04 - Estimación bayesiana
  
 Parte 3: Machine Learning
-   05 - Flujo de trabajo de machine learning
-   06 - Métodos de machine learning
-   07- Desarrollo de algoritmos
+-   05 - Flujo de trabajo de machine learning
+-   06 - Métodos de machine learning
+-   07- Desarrollo de algoritmos
 
 Parte 4: Procesamiento de imágenes
-   08 - Introducción al procesamiento de imágenes
-   09 - Representación y clasificación de imágenes
+-   08 - Introducción al procesamiento de imágenes
+-   09 - Representación y clasificación de imágenes
 
 Parte 5: Planificación y búsqueda
-   10 - ALgoritmos deterministas
-   11 - Algoritmos genéticos
-   12 - Simulated annealing 
+-   10 - Algoritmos deterministas
+-   11 - Algoritmos genéticos
+-   12 - Simulated annealing 
 
 
     W34   Ago22, Ago23   intro      1.python
