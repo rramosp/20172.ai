@@ -9,9 +9,9 @@ _Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_
 30% Online courses (MOOC)
 
 ### Online Courses (MOOC)
-Realiza cuatro lecciones de un curso que elijas en alguna plataforma MOOC, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
+Habrs de realizar algn MOOC online que habrá de tratar un tecnológica y ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
 
-La entrega ha de constar de:
+Tendrs que hacer un informe de tu seguimiento del MOOC. La entrega ha de constar de:
 
 - Un archivo PDF llamado MOOC_descripcion.pdf donde se describa el MOOC (primera entrega)
 - Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realizacin del MOOC
