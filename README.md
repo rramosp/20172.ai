@@ -57,3 +57,11 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
     
 [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
 
+## Información técnica
+
+La máquina virtual del curso tiene dos entornos Jupyter iPython:
+
+- [localhost:8001](http://localhost:8001) entorno Spark
+- [localhost:8002](http://localhost:8002) entorno Anaconda (machine learning), Hadoop, Mongo
+
+Servidor SSH en el puerto 2222 con vagrant/vagrant como usuario y pwd
